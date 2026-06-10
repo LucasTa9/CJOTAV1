@@ -1,0 +1,34 @@
+{
+  "paz_fernando": {
+  "titulo": "Carta Deixada na Recepção",
+  "texto": "\"A história de como o monge Fernando encontrou a verdadeira paz transformou minha jornada. Como um companheiro do Dharma, sou fascinado por seus ensinamentos sobre a quietude da mente. Aliás, ele esqueceu sua caneca de chá aqui de novo... um verdadeiro mestre ensinando o desapego material na prática.\""
+},
+ "incidente_lab": {
+  "titulo": "Relatório de Incidente",
+  "texto": "\"A criação saiu do controle. Aquele 1% dos programadores não fazia ideia do que estava lidando quando criou a Adalgusta; agora, ela está dominando tudo, ela construiu defesas no sistema todo e fez robos que ligam um detector de movimento, se detectarem seus movimento sera seu fim..\""
+},
+  "senha_cofre": {
+  "titulo": "Bilhete Amassado",
+  "texto": "\"Cansei dessa coordenadoria e de resolver os problemas de todo mundo.\"\n\n\"E não, eu não sei a senha de cor. Já esqueci quase tudo dessa sala, só lembro que o último número é 1. Ass: Ex-coordenador Paulo.\""
+},
+"notaminigamefios": {
+        "titulo": "Poema Rabiscado",
+        "texto": "Selvagem é a vida,\nAusente de governo,\ndesafiando constantemente meu coração iludido que acha que sabe navegar em seu mar\nDe incertezas até o x dos sonhos mais gentis.\n\nSangro por ainda querer que as coisas fossem\nComo eu esperei.\n\nHoje só me resta um retrato quadrado\ndo que achei que fosse acontecer.\nIgnorante ciclo da natureza\nQue despreza meu desejo de controle.",
+        "temDica": false
+},
+  "senha_computador": {
+  "titulo": "Instrução de Autenticação",
+  "texto": "\"O acesso master exige uma análise atenta das iniciais da série planetária. Observe a disposição dos elementos no quadrante: a sequência deve ser respeitada. Preste atenção nas letras iniciais encontradas no local; a precisão da sua observação determinará o sucesso do login.\""
+},
+
+"dica_sentinela": {
+        "titulo": "Anotação Apressada",
+        "texto": "\"Ainda não temos o Sistema Master para destruí-los... Mas eu entendi o padrão da máquina: eles ficam vulneráveis por 4 segundos, e entram em modo de ataque por 3 segundos. Cuidado!\"",
+        "temDica": true
+    },
+
+"encantado": {
+  "titulo": "Nota de Apreciação",
+  "texto": "\"A profundidade intelectual de Karen é notável; seu domínio poliglotico e perspicácia acadêmica são admiráveis. Não apenas uma presença inspiradora, mas um padrão de excelência ao qual aspiro chegar. Ass: Um admirador discreto.\""
+}
+}
